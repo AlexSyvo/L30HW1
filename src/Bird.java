@@ -8,4 +8,6 @@ public class Bird {
         this.weight = weight;
         this.wingspan = wingspan;
     }
+    public  void  fly(){
+        }
 }

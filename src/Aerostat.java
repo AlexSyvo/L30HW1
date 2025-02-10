@@ -1,4 +1,4 @@
-public class Aerostat {
+public class Aerostat implements Flyable{
     private int lenght;
     private int speed;
     private String model;

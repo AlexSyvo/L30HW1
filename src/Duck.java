@@ -1,4 +1,4 @@
-public class Duck extends Bird{
+public class Duck extends Bird implements Flyable{
     public Duck(int height, int weight, double wingspan) {
         super(height, weight, wingspan);
     }

@@ -1,4 +1,4 @@
-public class Aircraft {
+public class Aircraft implements Flyable {
     private int lenght;
     private String fuelType;
     private int speed;

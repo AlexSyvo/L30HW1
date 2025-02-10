@@ -1,4 +1,4 @@
-public abstract class Bird {
+public abstract class Bird implements Flyable {
     int height;
     int weight;
     double wingspan;

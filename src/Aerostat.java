@@ -3,10 +3,10 @@ public class Aerostat {
     private int speed;
     private String model;
 
-    public Aerostat(int lenght, int speed) {
+    public Aerostat(int lenght, int speed, String model) {
         this.lenght = lenght;
         this.speed = speed;
-        this.model=model;
+        this.model= model;
     }
     public  void  fly(){
         System.out.println("Аэростат полетел. ");

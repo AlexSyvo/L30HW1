@@ -4,7 +4,7 @@ public class Aircraft {
     private int speed;
     private String model;
 
-    public Aircraft(int lenght, String fuelType, int speed) {
+    public Aircraft(int lenght, String fuelType, int speed, String model) {
         this.lenght = lenght;
         this.fuelType = fuelType;
         this.speed = speed;

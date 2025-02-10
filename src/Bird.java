@@ -1,4 +1,4 @@
-public class Bird {
+public abstract class Bird {
     int height;
     int weight;
     double wingspan;
